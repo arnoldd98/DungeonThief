@@ -1,6 +1,5 @@
-#############################################
-Made by Arnold (1004117) DW Final Assignment
-#############################################
+DONE for 10.009 Digital World FInal Assignment.
+Also my first python project :)
 
 Gameplay video link: https://youtu.be/2qpPOTd5xoA
 
